@@ -1,0 +1,57 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Database Files
+# ==========================
+*.sqlite3
+*.db
+
+# ==========================
+# Python Build Files
+# ==========================
+build/
+dist/
+*.egg-info/
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.bak
+
+# ==========================
+# Power BI Auto Recovery
+# ==========================
+*.pbix.autosave
