@@ -267,9 +267,9 @@ Coming Soon
 
 MBA Business Analytics | Data Analyst | Python | SQL | PostgreSQL | Power BI
 
-LinkedIn: *(Add your profile)*
+LinkedIn: 
 
-GitHub: *(Add your GitHub profile)*
+GitHub: 
 
 ---
 
